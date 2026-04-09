@@ -1,0 +1,9 @@
+.gitignore
+node_modules/
+.env
+__pycache__/
+.DS_Store
+.vscode/
+.idea/
+*.pyc
+*.pyo
