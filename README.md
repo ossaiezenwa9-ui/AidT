@@ -1,0 +1,2 @@
+# AidT
+Trading Aid
